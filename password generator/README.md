@@ -26,3 +26,6 @@ This is a simple password generator script written in Bash. It generates a rando
 
 ## Sample Input / Output :
 
+![image](https://github.com/user-attachments/assets/e7593f16-c9ce-4905-a4ea-36ed45417d42)
+
+
