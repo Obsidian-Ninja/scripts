@@ -31,3 +31,4 @@ Clock Terminated!
 ### Output  
 Example Terminal Preview:
 <br>
+![image](https://github.com/user-attachments/assets/ac35179d-aef1-4be8-851d-7612401585d3)
